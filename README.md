@@ -1,5 +1,5 @@
 ### <p align="center"><strong>Memory Card Game</strong></p> 
-<p align="center"><a  href="https://gitchaoslord.github.io/Basic-Javascript-Memory-Card-Game" target="_blank">Click to play </a></p>
+
 </br>
 
 <p align="center"><strong>Instructions</strong></p> 
